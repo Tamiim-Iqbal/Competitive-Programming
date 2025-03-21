@@ -12,6 +12,7 @@ int main()
     
     int n; cin >> n;
     int mn = INT_MAX;
+    
     while (n--)
     {
         int a; cin >> a;
@@ -19,6 +20,6 @@ int main()
         mn = min(mn, a);
     }
     cout << mn << endl;
-    
+
     return 0;
 }
