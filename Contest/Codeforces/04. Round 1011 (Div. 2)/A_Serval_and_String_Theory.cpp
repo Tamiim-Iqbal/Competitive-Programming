@@ -8,9 +8,7 @@ using namespace std;
 
 bool isUniversal(const string &s) 
     {
-        return (s[0] < s[s.length() - 1]);
-
-        //return s < string(s.rbegin(), s.rend());   // Compare the string with its reverse lexicographically
+        return s < string(s.rbegin(), s.rend());   // Compare the string with its reverse lexicographically
     }
 
 
