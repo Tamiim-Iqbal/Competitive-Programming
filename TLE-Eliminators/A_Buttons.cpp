@@ -1,3 +1,8 @@
+/**
+ *   author:  TAMIM IQBAL
+ *   created: 22/03/2025 17:14:15
+**/
+
 
 #include<bits/stdc++.h>
 using namespace std;
