@@ -1,3 +1,7 @@
+/**
+ *   author:  TAMIM IQBAL
+ *   created: 24/03/2025 16:09:32
+**/
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -5,14 +9,14 @@ using namespace std;
 void solve()
 {
     int n; cin >> n;
-    vector<int> a(n), b(n);
+    vector<int> b(n), a;
     for (int i = 0; i < n; i++) cin >> b[i];
 
     a.push_back(b[0]);
 
     for (int i = 1; i < n; i++) 
     {
-        if(b[i-1] >= b[i])
+        if(b[i] >= b[i-1])
         {
             a.push_back(b[i]);
         } 
