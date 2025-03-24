@@ -1,6 +1,6 @@
 /**
- *   author:  TAMIM IQBAL
- *   created: 23/03/2025 13:19:09
+ *   author:  tamim-iqbal
+ *   created: 24/03/2025 22:33:06
 **/
 
 
@@ -11,26 +11,9 @@ void solve()
 {
     long long x, y, a;
     cin >> x >> y >> a;
-
-    //2 days per cycle
-    long long cycle_depth = x + y;
-
-    // number of cycles needed
-    long long k = (a + 0.5) / cycle_depth;
-
-    // Total depth after k cycles
-    long long total_depth = k * cycle_depth;
-
-
-    if (total_depth + x > a + 0.5)
-    {
-        cout << "NO" << endl;
-    }
     
-    else
-    {
-        cout << "YES" << endl;
-    }
+    if(a % (x + y) >= x) cout << "YES\n";
+    else cout << "NO\n";
 }
 
 int main()
