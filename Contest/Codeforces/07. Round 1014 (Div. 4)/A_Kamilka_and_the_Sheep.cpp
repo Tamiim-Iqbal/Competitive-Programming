@@ -19,14 +19,16 @@ using ld = long double;
 void solve()
 {
     int n; cin >> n;
-    int mn = INT_MAX;
-    int mx = INT_MIN;
+    
+    vector<int>a(n);
+
     for(int i = 0; i < n; i++)
     {
-        int x; cin >> x;
-        mn = min(mn, x);
-        mx = max(mx, x);
+        cin >> a[i];
     }
+
+    int mx = *max_element(a.begin(), a.end());
+    int mn = *min_element(a.begin(), a.end());
 
     int ans = mx - mn;
     cout << ans << endl;
