@@ -6,6 +6,7 @@
 // Time Complexity : O(n)
 // Space Complexity : O(n)
 
+#define _Alignof alignof    // ignore this : its just for the compiler
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -32,12 +33,13 @@ void solve()
 
     if(even == 0 || odd == 0) 
     {
-        cout << *max_element(a.begin(), a.end()) << endl;
+        int ans = *max_element(a.begin(), a.end());
+        cout << ans << endl;
         return;
     }
     
-    int ans = accumulate(a.begin(), a.end(), 0);   // sum of all element
-    cout << ans - (odd - 1) << endl;               // ans must be odd & rest of them is reduced to 1 : odd - 1
+    ll ans = accumulate(a.begin(), a.end(), 0LL) - (odd - 1);   // sum of all element
+    cout << ans << endl;               // ans must be odd & rest of them is reduced to 1 : odd - 1
 }
 
 int main() 
