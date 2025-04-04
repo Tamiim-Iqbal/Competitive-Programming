@@ -3,8 +3,8 @@
  *   created: 03/04/2025 20:37:01
 **/
 
-// Time Complexity : 
-// Space Complexity :
+// Time Complexity : O(1)
+// Space Complexity : O(1)
 
 #include<bits/stdc++.h>
 using namespace std;
