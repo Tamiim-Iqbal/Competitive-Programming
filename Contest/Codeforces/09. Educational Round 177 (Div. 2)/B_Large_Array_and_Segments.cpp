@@ -1,3 +1,8 @@
+/**
+ *   author:  tamim-iqbal
+ *   created: 06/04/2025 20:28:37
+**/
+
 // Time Complexity : O(n)
 // Space Complexity : O(n)
 
@@ -5,7 +10,6 @@
 #include<bits/stdc++.h>
 
 using namespace std;
-
 
 using ll = long long;
 using ld = long double;
@@ -18,8 +22,8 @@ void solve()
 {
     ll n, k, x;
     cin >> n >> k >> x;
-    vector<int> a(n);
-    for (int i = 0; i < n; ++i) 
+    vector<ll> a(n);
+    for (ll i = 0; i < n; i++) 
     {
         cin >> a[i];
     }
@@ -32,8 +36,8 @@ void solve()
         return;
     }
 
-    int rem = x % sum;
-    int res = x / sum;
+    ll rem = x % sum;
+    ll res = x / sum;
 
     if(rem == 0) 
     {
@@ -41,10 +45,10 @@ void solve()
         rem = sum;
     }
 
-    int ans = n * k - res * n;
-    int sub = 0;
+    ll ans = n * k - res * n;
+    ll sub = 0;
 
-    for (int i = n - 1; i >= 0; i--) 
+    for (ll i = n - 1; i >= 0; i--) 
     {
         sub += a[i];
         if (sub >= rem) 
@@ -53,7 +57,6 @@ void solve()
         }
         ans--;
     }
-
     cout << ans << endl;
 }
 
