@@ -23,14 +23,9 @@ using vl = vector<ll>;
 void solve()
 {
     int n; cin >> n;
-    if(n % 2 == 0)
-    {
-        no;
-    }
-    else
-    {
-        yes;
-    }
+
+    if (n & 1) yes else no   // bitwise AND operator
+    // if(n % 2 == 1) yes else no
 }
 
 int main() 
