@@ -1,3 +1,8 @@
+/**
+ *   author:  tamim-iqbal
+ *   created: 10/04/2025 02:29:29
+**/
+
 // Time Complexity : sqrt(n)
 // Space Complexity : O(1)
 
@@ -21,14 +26,9 @@ typedef vector<string> vs;
 typedef pair<int, int> pii;
 typedef pair<ll, ll> pll;
 
-#define f(i, start, end) for(int i = start; i < end; i++)
-#define fe(i, end, e) for(int i = end - 1; i >= e; i--)
-#define fl(i, start, end) for(ll i = start; i < end; i++)
-
-
 bool isPrime(ll n)
 {
-    f(i, 2, sqrt(n))
+    for(ll i = 2 ; i <= sqrtl(n); i++)
     {
         if(n % i == 0) return false;
     }
