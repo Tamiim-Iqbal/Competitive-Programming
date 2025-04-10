@@ -1,3 +1,8 @@
+/**
+ *   author:  tamim-iqbal
+ *   created: 11/04/2025 00:31:27
+**/
+
 // Time Complexity : O(n)
 // Space Complexity : O(n)
 
@@ -23,10 +28,10 @@ typedef pair<ll, ll> pll;
 
 void solve()
 {
-    int n; cin >> n;
-    int a[n]; 
-    for(int i = 0; i < n; i++) cin >> a[i];
-    int mn = INT_MAX;
+    ll n; cin >> n;
+    ll a[n]; 
+    for(ll i = 0; i < n; i++) cin >> a[i];
+    int mn = 1e9;
 
     bool ok = is_sorted(a, a+n);
     if(!ok)
@@ -35,9 +40,9 @@ void solve()
         return;
     }
 
-    for(int i = 0; i < n; i++)
+    for(int i = 1; i < n; i++)
     {
-        int sub = abs(a[i]-a[i+1]);
+        int sub = abs(a[i]-a[i-1]);
         mn = min(mn, sub);
     }
     int ans = (mn / 2) + 1;
