@@ -1,3 +1,8 @@
+/**
+ *   author:  tamim-iqbal
+ *   created: 11/04/2025 00:38:34
+**/
+
 // Time Complexity : O(n)
 // Space Complexity : O(1)
 
@@ -34,30 +39,32 @@ void solve()
             cout << 1 << " ";
         }
         cout << endl;
-        return;
     }
 
-    if (k == 1 || (k >= 2 && n % 2 == 1)) no
     else
     {
-        yes
-        if(n % 2 == 0) 
-        {
-            cout << n / 2 << endl;
-            for(int i = 0; i < n / 2; i++)
-            {
-                cout << 2 << " ";
-            }
-            cout << endl;
-        }
+        if (k == 1 || (k == 2 && n % 2 == 1)) no
         else
         {
-            cout << (n - 3) / 2 + 1 << endl;
-            for(int i = 0; i < (n - 3) / 2; i++)
+            yes
+            if(n % 2 == 0) 
             {
-                cout << 2 << " ";
+                cout << n / 2 << endl;
+                for(int i = 0; i < n / 2 ; i++)
+                {
+                    cout << 2 << " ";
+                }
+                cout << endl;
             }
-            cout << 3 << endl;
+            else
+            {
+                cout << (n - 3) / 2 + 1 << endl;
+                for(int i = 0; i < (n - 3) / 2; i++)
+                {
+                    cout << 2 << " ";
+                }
+                cout << 3 << endl;
+            }
         }
     }
 
