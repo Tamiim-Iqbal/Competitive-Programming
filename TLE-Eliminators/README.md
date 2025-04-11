@@ -21,8 +21,8 @@
 | 15 | A. Array Coloring | [Problem](https://codeforces.com/problemset/problem/1857/A) |  | [Solution] |
 | 16 | A. Desorting | [Problem](https://codeforces.com/problemset/problem/1853/A) | sorting | [Solution](https://codeforces.com/contest/1845/submission/314926999) |
 | 17 | A. Forbidden Integer | [Problem](https://codeforces.com/problemset/problem/1845/A) | math, number theory | [Solution](https://codeforces.com/contest/1845/submission/314926999) |
-| 18 | A. Grasshopper on a Line | [Problem](https://codeforces.com/problemset/problem/1837/A) |  | [Solution] |
-| 19 | A. Unit Array | [Problem](https://codeforces.com/problemset/problem/1834/A) |  | [Solution] |
+| 18 | A. Grasshopper on a Line | [Problem](https://codeforces.com/problemset/problem/1837/A) | math | [Solution](https://codeforces.com/contest/1837/submission/315047183) |
+| 19 | A. Unit Array | [Problem](https://codeforces.com/problemset/problem/1834/A) | math | [Solution](https://codeforces.com/contest/1834/submission/315047373) |
 | 20 | A. Twin Permutations | [Problem](https://codeforces.com/problemset/problem/1831/A) |  | [Solution] |
 | 21 | B. Blank Space | [Problem](https://codeforces.com/problemset/problem/1829/B) |  | [Solution] |
 | 22 | A. Coins | [Problem](https://codeforces.com/problemset/problem/1814/A) |  | [Solution] |
