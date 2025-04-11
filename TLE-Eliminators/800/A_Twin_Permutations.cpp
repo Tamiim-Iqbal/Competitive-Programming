@@ -23,12 +23,12 @@ typedef pair<ll, ll> pll;
 
 void solve()
 {
-    int n; cin >> n;
-    int a[n];
-    for(int i = 0; i < n; i++) cin >> a[i];
-    for(int i = 1; i <= n; i++)
+    ll n; cin >> n;
+    ll a[n];
+    for(ll i = 0; i < n; i++) 
     {
-        cout << i << " ";
+        cin >> a[i];
+        cout << n + 1 - a[i] << " ";
     }
     cout << endl;
 
