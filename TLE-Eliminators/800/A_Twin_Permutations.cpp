@@ -1,3 +1,8 @@
+/**
+ *   author:  tamim-iqbal
+ *   created: 13/04/2025 03:33:58
+**/
+
 // Time Complexity : 
 // Space Complexity :
 
@@ -24,11 +29,10 @@ typedef pair<ll, ll> pll;
 void solve()
 {
     ll n; cin >> n;
-    ll a[n];
     for(ll i = 0; i < n; i++) 
     {
-        cin >> a[i];
-        cout << n + 1 - a[i] << " ";
+        int x; cin >> x;
+        cout << n + 1 - x << " ";
     }
     cout << endl;
 
