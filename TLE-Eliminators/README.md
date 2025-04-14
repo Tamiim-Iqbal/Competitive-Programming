@@ -24,7 +24,7 @@
 | 18 | A. Grasshopper on a Line | [Problem](https://codeforces.com/problemset/problem/1837/A) | math | [Solution](https://codeforces.com/contest/1837/submission/315047183) |
 | 19 | A. Unit Array | [Problem](https://codeforces.com/problemset/problem/1834/A) | math | [Solution](https://codeforces.com/contest/1834/submission/315047373) |
 | 20 | A. Twin Permutations | [Problem](https://codeforces.com/problemset/problem/1831/A) | loop | [Solution](https://codeforces.com/contest/1831/submission/315217425) |
-| 21 | B. Blank Space | [Problem](https://codeforces.com/problemset/problem/1829/B) |  | [Solution] |
+| 21 | B. Blank Space | [Problem](https://codeforces.com/problemset/problem/1829/B) | loop | [Solution](https://codeforces.com/contest/1829/submission/315602156)|
 | 22 | A. Coins | [Problem](https://codeforces.com/problemset/problem/1814/A) |  | [Solution] |
 | 23 | A. Walking Master | [Problem](https://codeforces.com/problemset/problem/1806/A) |  | [Solution] |
 | 24 | A. We Need the Zero | [Problem](https://codeforces.com/problemset/problem/1805/A) |  | [Solution] |
