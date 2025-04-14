@@ -1,5 +1,10 @@
-// Time Complexity : 
-// Space Complexity :
+/**
+ *   author:  tamim-iqbal
+ *   created: 14/04/2025 22:35:16
+**/
+
+// Time Complexity : O(n)
+// Space Complexity : O(n)
 
 #define _Alignof alignof       // ignore this : its just for the compiler
 #include<bits/stdc++.h>
