@@ -9,7 +9,7 @@
 | 3 | A. Cover in Water | [Problem](https://codeforces.com/problemset/problem/1900/A) | string, find, npos | [Solution](https://codeforces.com/contest/1900/submission/311010200) |
 | 4 | A. Game with Integers | [Problem](https://codeforces.com/problemset/problem/1899/A) | loop, math | [Solution](https://codeforces.com/contest/1899/submission/309567977) |
 | 5 | A. Jagged Swaps | [Problem](https://codeforces.com/problemset/problem/1896/A) | loop, sorting, swap | [Solution](https://codeforces.com/contest/1896/submission/309568319) |
-| 6 | A. Doremy's Paint 3 | [Problem](https://codeforces.com/problemset/problem/1890/A) | map | [Solution] |
+| 6 | A. Doremy's Paint 3 | [Problem](https://codeforces.com/problemset/problem/1890/A) | map | [Solution](https://codeforces.com/contest/1890/submission/316396237) |
 | 7 | A. Don't Try to Count | [Problem](https://codeforces.com/problemset/problem/1881/A) | string, find, loop | [Solution](https://codeforces.com/contest/1881/submission/311109814) |
 | 8 | A. How Much Does Daytona Cost? | [Problem](https://codeforces.com/problemset/problem/1878/A) | loop, math | [Solution](https://codeforces.com/contest/1878/submission/311299190) |
 | 9 | A. Goals of Victory | [Problem](https://codeforces.com/problemset/problem/1877/A) | loop, math | [Solution](https://codeforces.com/contest/1877/submission/311440576) |
