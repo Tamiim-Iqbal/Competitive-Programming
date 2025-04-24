@@ -39,9 +39,7 @@ void solve()
         else one++;
     }
 
-    int c = (one + 1) * zero;
-    int c1 = (one * (one - 1));
-    int ans = c + c1;
+    int ans = ((one + 1) * zero) + (one * (one - 1));
     cout << ans << endl;
 }
 

@@ -31,6 +31,7 @@ void solve()
     int n, x; cin >> n >> x;
 
     vector<int> p;
+    
     for(int i = 0; i < n; ++i) 
     {
         if(i != x) p.push_back(i);

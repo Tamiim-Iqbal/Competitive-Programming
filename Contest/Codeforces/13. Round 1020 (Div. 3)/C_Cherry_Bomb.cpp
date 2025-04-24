@@ -82,6 +82,7 @@ void solve()
     {
         cout << 0 << endl;
     }
+    
     else
     {
         int ans = 0;
