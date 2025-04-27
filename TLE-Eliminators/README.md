@@ -36,6 +36,8 @@
 | 30 | A. Extremely Round | [Problem](https://codeforces.com/problemset/problem/1766/A) |  | [Solution] |
 | 31 | A. Two Permutations | [Problem](https://codeforces.com/problemset/problem/1761/A) |  | [Solution] |
 
+<br>
+
 <h2>Rating : 900 </h2>
 
 | # |    Name      |    Problem Link       |     Pre-requisite      |  Solution Link         |
