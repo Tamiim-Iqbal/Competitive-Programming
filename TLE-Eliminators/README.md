@@ -30,7 +30,7 @@
 | 24 | A. We Need the Zero | [Problem](https://codeforces.com/problemset/problem/1805/A) |  | [Solution] |
 | 25 | C. Prepend and Append | [Problem](https://codeforces.com/problemset/problem/1791/C) |  | [Solution] |
 | 26 | A. Serval and Mocha's Array | [Problem](https://codeforces.com/problemset/problem/1789/A) |  | [Solution] |
-| 27 | A. One and Two | [Problem](https://codeforces.com/problemset/problem/1788/A) |  | [Solution] |
+| 27 | A. One and Two | [Problem](https://codeforces.com/problemset/problem/1788/A) | Prefix | [Solution](https://codeforces.com/contest/1788/submission/317451156) |
 | 28 | A. Make it Beautiful | [Problem](https://codeforces.com/problemset/problem/1783/A) |  | [Solution] |
 | 29 | A. Everybody Likes Good Arrays! | [Problem](https://codeforces.com/problemset/problem/1777/A) |  | [Solution] |
 | 30 | A. Extremely Round | [Problem](https://codeforces.com/problemset/problem/1766/A) |  | [Solution] |
