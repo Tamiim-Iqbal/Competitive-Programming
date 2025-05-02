@@ -4,27 +4,27 @@
 
 | # |    Name      |    Problem Link       |     Pre-requisite      |  Solution Link         |
 |:-:|--------------|:---------------------:|:----------------------:|:----------------------:|
-| 1 | A. Halloumi Boxes | [Problem](https://codeforces.com/problemset/problem/1903/A) | loop, sorting | [Solution](https://codeforces.com/contest/1903/submission/309324954) | 
-| 2 | A. Line Trip | [Problem](https://codeforces.com/problemset/problem/1901/A) | loop, math | [Solution](https://codeforces.com/contest/1901/submission/309326920) | 
+| 1 | A. Halloumi Boxes | [Problem](https://codeforces.com/problemset/problem/1903/A) | array, sorting | [Solution](https://codeforces.com/contest/1903/submission/309324954) | 
+| 2 | A. Line Trip | [Problem](https://codeforces.com/problemset/problem/1901/A) | array, math | [Solution](https://codeforces.com/contest/1901/submission/309326920) | 
 | 3 | A. Cover in Water | [Problem](https://codeforces.com/problemset/problem/1900/A) | string, find, npos | [Solution](https://codeforces.com/contest/1900/submission/311010200) |
-| 4 | A. Game with Integers | [Problem](https://codeforces.com/problemset/problem/1899/A) | loop, math | [Solution](https://codeforces.com/contest/1899/submission/309567977) |
-| 5 | A. Jagged Swaps | [Problem](https://codeforces.com/problemset/problem/1896/A) | loop, sorting, swap | [Solution](https://codeforces.com/contest/1896/submission/309568319) |
+| 4 | A. Game with Integers | [Problem](https://codeforces.com/problemset/problem/1899/A) | array, math | [Solution](https://codeforces.com/contest/1899/submission/309567977) |
+| 5 | A. Jagged Swaps | [Problem](https://codeforces.com/problemset/problem/1896/A) | array, sorting, swap | [Solution](https://codeforces.com/contest/1896/submission/309568319) |
 | 6 | A. Doremy's Paint 3 | [Problem](https://codeforces.com/problemset/problem/1890/A) | map | [Solution](https://codeforces.com/contest/1890/submission/316396237) |
-| 7 | A. Don't Try to Count | [Problem](https://codeforces.com/problemset/problem/1881/A) | string, find, loop | [Solution](https://codeforces.com/contest/1881/submission/311109814) |
-| 8 | A. How Much Does Daytona Cost? | [Problem](https://codeforces.com/problemset/problem/1878/A) | loop, math | [Solution](https://codeforces.com/contest/1878/submission/311299190) |
-| 9 | A. Goals of Victory | [Problem](https://codeforces.com/problemset/problem/1877/A) | loop, math | [Solution](https://codeforces.com/contest/1877/submission/311440576) |
+| 7 | A. Don't Try to Count | [Problem](https://codeforces.com/problemset/problem/1881/A) | string, find, array | [Solution](https://codeforces.com/contest/1881/submission/311109814) |
+| 8 | A. How Much Does Daytona Cost? | [Problem](https://codeforces.com/problemset/problem/1878/A) | array, math | [Solution](https://codeforces.com/contest/1878/submission/311299190) |
+| 9 | A. Goals of Victory | [Problem](https://codeforces.com/problemset/problem/1877/A) | array, math | [Solution](https://codeforces.com/contest/1877/submission/311440576) |
 | 10 | C. Target Practice | [Problem](https://codeforces.com/problemset/problem/1873/C) | 2d array | [Solution](https://codeforces.com/contest/1873/submission/311573915) |
-| 11 | A. Ambitious Kid | [Problem](https://codeforces.com/problemset/problem/1866/A) | loop, math | [Solution](https://codeforces.com/contest/1866/submission/311632811) |
+| 11 | A. Ambitious Kid | [Problem](https://codeforces.com/problemset/problem/1866/A) | array, math | [Solution](https://codeforces.com/contest/1866/submission/311632811) |
 | 12 | B. Sequence Game | [Problem](https://codeforces.com/problemset/problem/1862/B) | vector, iteration | [Solution](https://codeforces.com/contest/1862/submission/312173869) |
 | 13 | A. United We Stand | [Problem](https://codeforces.com/problemset/problem/1859/A) | vector, iteration | [Solution](https://codeforces.com/contest/1859/submission/312812492) |
-| 14 | A. Buttons | [Problem](https://codeforces.com/problemset/problem/1858/A) | loop, math | [Solution](https://codeforces.com/contest/1858/submission/311782939) |
+| 14 | A. Buttons | [Problem](https://codeforces.com/problemset/problem/1858/A) | array, math | [Solution](https://codeforces.com/contest/1858/submission/311782939) |
 | 15 | A. Array Coloring | [Problem](https://codeforces.com/problemset/problem/1857/A) |  | [Solution] |
 | 16 | A. Desorting | [Problem](https://codeforces.com/problemset/problem/1853/A) | sorting | [Solution](https://codeforces.com/contest/1845/submission/314926999) |
 | 17 | A. Forbidden Integer | [Problem](https://codeforces.com/problemset/problem/1845/A) | math, number theory | [Solution](https://codeforces.com/contest/1845/submission/314926999) |
 | 18 | A. Grasshopper on a Line | [Problem](https://codeforces.com/problemset/problem/1837/A) | math | [Solution](https://codeforces.com/contest/1837/submission/315047183) |
 | 19 | A. Unit Array | [Problem](https://codeforces.com/problemset/problem/1834/A) | math | [Solution](https://codeforces.com/contest/1834/submission/315047373) |
 | 20 | A. Twin Permutations | [Problem](https://codeforces.com/problemset/problem/1831/A) | loop | [Solution](https://codeforces.com/contest/1831/submission/315217425) |
-| 21 | B. Blank Space | [Problem](https://codeforces.com/problemset/problem/1829/B) | loop | [Solution](https://codeforces.com/contest/1829/submission/315602156)|
+| 21 | B. Blank Space | [Problem](https://codeforces.com/problemset/problem/1829/B) | array | [Solution](https://codeforces.com/contest/1829/submission/315602156)|
 | 22 | A. Coins | [Problem](https://codeforces.com/problemset/problem/1814/A) |  | [Solution] |
 | 23 | A. Walking Master | [Problem](https://codeforces.com/problemset/problem/1806/A) |  | [Solution] |
 | 24 | A. We Need the Zero | [Problem](https://codeforces.com/problemset/problem/1805/A) |  | [Solution] |
@@ -45,7 +45,7 @@
 | 1 | A. Forked!  | [Problem](https://codeforces.com/problemset/problem/1904/A) | set | [Solution](https://codeforces.com/contest/1904/submission/318154838) |
 | 2 | B. Chemistry | [Problem](https://codeforces.com/problemset/problem/1883/B) | map, set | [Solution](https://codeforces.com/contest/1883/submission/318134559) |
 | 3 | C. Vasilije in Cacak | [Problem](https://codeforces.com/problemset/problem/1878/C) | math, sum of 1 to n | [Solution](https://codeforces.com/contest/1878/submission/318156746) |
-| 4 | A. Jellyfish and Undertale | [Problem](https://codeforces.com/problemset/problem/1875/A) |  | [Solution] |
+| 4 | A. Jellyfish and Undertale | [Problem](https://codeforces.com/problemset/problem/1875/A) | array, math | [Solution](https://codeforces.com/contest/1875/submission/318158107) |
 | 5 | A. Make It Zero | [Problem](https://codeforces.com/problemset/problem/1869/A) |  | [Solution] |
 | 6 | B. Longest Divisors Interval | [Problem](https://codeforces.com/problemset/problem/1855/B) |  | [Solution] |
 | 7 | D. Balanced Round | [Problem](https://codeforces.com/problemset/problem/1850/D) |  | [Solution] |
