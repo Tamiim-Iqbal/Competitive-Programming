@@ -5,7 +5,7 @@
 
 | # | Name | Total Problems | Problem & Solution Link | 
 |:-:|------|:--------------:|:-----------------------:|
-| 1 | TLE Eliminators | 31 | [Problem List & Solution Link](https://github.com/Tamiim-Iqbal/Competitive-Programming/tree/main/TLE-Eliminators) |
+| 1 | TLE Eliminators | 62 | [Problem List & Solution Link](https://github.com/Tamiim-Iqbal/Competitive-Programming/tree/main/TLE-Eliminators) |
 | 2 | Codeforces |  | [Problem List & Solution Link] |
 | 3 | LeetCode   |  | [Problem List & Solution Link] |
 | 4 | CodeChef   |  | [Problem List & Solution Link] |
