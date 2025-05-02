@@ -42,7 +42,7 @@
 
 | # |    Name      |    Problem Link       |     Pre-requisite      |  Solution Link         |
 |:-:|--------------|:---------------------:|:----------------------:|:----------------------:|
-| 1 | A. Forked!  | [Problem](https://codeforces.com/problemset/problem/1904/A) |  | [Solution] |
+| 1 | A. Forked!  | [Problem](https://codeforces.com/problemset/problem/1904/A) |  | [Solution](https://codeforces.com/contest/1904/submission/318154838) |
 | 2 | B. Chemistry | [Problem](https://codeforces.com/problemset/problem/1883/B) |  | [Solution](https://codeforces.com/contest/1883/submission/318134559) |
 | 3 | C. Vasilije in Cacak | [Problem](https://codeforces.com/problemset/problem/1878/C) |  | [Solution] |
 | 4 | A. Jellyfish and Undertale | [Problem](https://codeforces.com/problemset/problem/1875/A) |  | [Solution] |
