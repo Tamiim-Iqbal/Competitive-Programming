@@ -46,7 +46,7 @@
 | 2 | B. Chemistry | [Problem](https://codeforces.com/problemset/problem/1883/B) | map, set | [Solution](https://codeforces.com/contest/1883/submission/318134559) |
 | 3 | C. Vasilije in Cacak | [Problem](https://codeforces.com/problemset/problem/1878/C) | math, sum of 1 to n | [Solution](https://codeforces.com/contest/1878/submission/318156746) |
 | 4 | A. Jellyfish and Undertale | [Problem](https://codeforces.com/problemset/problem/1875/A) | array, math | [Solution](https://codeforces.com/contest/1875/submission/318158107) |
-| 5 | A. Make It Zero | [Problem](https://codeforces.com/problemset/problem/1869/A) |  | [Solution] |
+| 5 | A. Make It Zero | [Problem](https://codeforces.com/problemset/problem/1869/A) | xor | [Solution](https://codeforces.com/contest/1869/submission/318360121) |
 | 6 | B. Longest Divisors Interval | [Problem](https://codeforces.com/problemset/problem/1855/B) |  | [Solution] |
 | 7 | D. Balanced Round | [Problem](https://codeforces.com/problemset/problem/1850/D) |  | [Solution] |
 | 8 | B. Comparison String | [Problem](https://codeforces.com/problemset/problem/1837/B) |  | [Solution] |
