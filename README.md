@@ -5,9 +5,9 @@
 
 | # | Name | Total Problems | Problem & Solution Link | 
 |:-:|------|:--------------:|:-----------------------:|
-| 1 | TLE Eliminators | 62 | [Problem List & Solution Link](https://github.com/Tamiim-Iqbal/Competitive-Programming/tree/main/TLE-Eliminators) |
-| 2 | Codeforces |  | [Problem List & Solution Link] |
-| 3 | LeetCode   |  | [Problem List & Solution Link] |
-| 4 | CodeChef   |  | [Problem List & Solution Link] |
-| 5 | AtCoder    |  | [Problem List & Solution Link] |
-| 6 | Contests   |  | [Problem List & Solution Link] |
+| 1 | Online Contests |  | [Problem List & Solution Link](https://github.com/Tamiim-Iqbal/Competitive-Programming/tree/main/Contest) |
+| 2 | TLE Eliminators | 62 | [Problem List & Solution Link](https://github.com/Tamiim-Iqbal/Competitive-Programming/tree/main/TLE-Eliminators) |
+| 3 | Codeforces |  | [Problem List & Solution Link] |
+| 4 | LeetCode   |  | [Problem List & Solution Link] |
+| 5 | CodeChef   |  | [Problem List & Solution Link] |
+| 6 | AtCoder    |  | [Problem List & Solution Link] |
