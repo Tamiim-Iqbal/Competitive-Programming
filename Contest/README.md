@@ -9,5 +9,5 @@
 | 14 | | 1 |  | [Problem] |   | [Solution] |
 | 15 | | 1 |  | [Problem] |   | [Solution] |  |
 | 15 | | 2 |  | [Problem] |   | [Solution] |  |
-| 15 | | 3 |  | [Problem] |   | [Solution] | [Explanation] |
+| 15 | | 3 |  | [Problem] |   | [Solution] | [Explanation](https://github.com/Tamiim-Iqbal/Competitive-Programming/tree/main/Contest/Codeforces/15.%20Round%201023%20(Div.%202)/C_Explanation) |
 
