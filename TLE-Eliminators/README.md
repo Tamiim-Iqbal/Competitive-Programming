@@ -40,37 +40,38 @@
 
 <h2>Rating : 900 </h2>
 
-| # |    Name      |    Problem Link       |     Pre-requisite      |  Solution Link         |
-|:-:|--------------|:---------------------:|:----------------------:|:----------------------:|
-| 1 | A. Forked!  | [Problem](https://codeforces.com/problemset/problem/1904/A) | set | [Solution](https://codeforces.com/contest/1904/submission/318154838) |
-| 2 | B. Chemistry | [Problem](https://codeforces.com/problemset/problem/1883/B) | map, set | [Solution](https://codeforces.com/contest/1883/submission/318134559) |
-| 3 | C. Vasilije in Cacak | [Problem](https://codeforces.com/problemset/problem/1878/C) | math, sum of 1 to n | [Solution](https://codeforces.com/contest/1878/submission/318156746) |
-| 4 | A. Jellyfish and Undertale | [Problem](https://codeforces.com/problemset/problem/1875/A) | array, math | [Solution](https://codeforces.com/contest/1875/submission/318158107) |
-| 5 | A. Make It Zero | [Problem](https://codeforces.com/problemset/problem/1869/A) | xor | [Solution](https://codeforces.com/contest/1869/submission/318360121) |
-| 6 | B. Longest Divisors Interval | [Problem](https://codeforces.com/problemset/problem/1855/B) |  | [Solution] |
-| 7 | D. Balanced Round | [Problem](https://codeforces.com/problemset/problem/1850/D) |  | [Solution] |
-| 8 | B. Comparison String | [Problem](https://codeforces.com/problemset/problem/1837/B) |  | [Solution] |
-| 9 | B. Permutation Swap | [Problem](https://codeforces.com/problemset/problem/1828/B) |  | [Solution] |
-| 10 | D. Odd Queries | [Problem](https://codeforces.com/problemset/problem/1807/D) |  | [Solution] |
-| 11 | B. Not Dividing | [Problem](https://codeforces.com/problemset/problem/1794/B) |  | [Solution] |
-| 12 | A. Mainak and Array | [Problem](https://codeforces.com/problemset/problem/1726/A) |  | [Solution] |
-| 13 | B. NIT Destroys the Universe | [Problem](https://codeforces.com/problemset/problem/1696/B) |  | [Solution] |
-| 14 | A. AvtoBus | [Problem](https://codeforces.com/problemset/problem/1679/A) |  | [Solution] |
-| 15 | B. Make It Increasing | [Problem](https://codeforces.com/problemset/problem/1675/B) |  | [Solution] |
-| 16 | D. Deletive Editing | [Problem](https://codeforces.com/problemset/problem/1666/D) |  | [Solution] |
-| 17 | B. Array Cloning Technique | [Problem](https://codeforces.com/problemset/problem/1665/B) |  | [Solution] |
-| 18 | B. Make AP | [Problem](https://codeforces.com/problemset/problem/1624/B) |  | [Solution] |
-| 19 | B. Odd Grasshopper | [Problem](https://codeforces.com/problemset/problem/1607/B) |  | [Solution] |
-| 20 | A. AB Balance | [Problem](https://codeforces.com/problemset/problem/1606/A) |  | [Solution]|
-| 21 | B. Make it Divisible by 25 | [Problem](https://codeforces.com/problemset/problem/1593/B) |  | [Solution] |
-| 22 | B. Luntik and Subsequences | [Problem](https://codeforces.com/problemset/problem/1582/B) |  | [Solution] |
-| 23 | A. Mocha and Math | [Problem](https://codeforces.com/problemset/problem/1559/A) |  | [Solution] |
-| 24 | A. Exciting Bets | [Problem](https://codeforces.com/problemset/problem/1543/A) |  | [Solution] |
-| 25 | B. Bad Boy | [Problem](https://codeforces.com/problemset/problem/1537/B) |  | [Solution] |
-| 26 | A. Odd Divisor | [Problem](https://codeforces.com/problemset/problem/1475/A) |  | [Solution]|
-| 27 | A. Strange Partition | [Problem](https://codeforces.com/problemset/problem/1471/A) |  | [Solution] |
-| 28 | B. Sum of Medians | [Problem](https://codeforces.com/problemset/problem/1440/B) |  | [Solution] |
-| 29 | A. Three Indices | [Problem](https://codeforces.com/problemset/problem/1380/A) |  | [Solution] |
-| 30 | B. 01 Game | [Problem](https://codeforces.com/problemset/problem/1373/B) |  | [Solution]|
-| 31 | B. Multiply by 2, divide by 6 | [Problem](https://codeforces.com/problemset/problem/1374/B) |  | [Solution] |
+| #  | Name  | Problem Link   | Pre-requisite  | Solution Link    | Comment |
+|:--:|-------|:--------------:|:--------------:|:----------------:|---------|
+| 1 | A. Forked! | [Problem](https://codeforces.com/problemset/problem/1904/A) | set | [Solution](https://codeforces.com/contest/1904/submission/318154838) | |
+| 2 | B. Chemistry | [Problem](https://codeforces.com/problemset/problem/1883/B) | map, set | [Solution](https://codeforces.com/contest/1883/submission/318134559) | |
+| 3 | C. Vasilije in Cacak | [Problem](https://codeforces.com/problemset/problem/1878/C) | math, sum of 1 to n | [Solution](https://codeforces.com/contest/1878/submission/318156746) | |
+| 4 | A. Jellyfish and Undertale | [Problem](https://codeforces.com/problemset/problem/1875/A) | array, math | [Solution](https://codeforces.com/contest/1875/submission/318158107) | |
+| 5 | A. Make It Zero | [Problem](https://codeforces.com/problemset/problem/1869/A) | xor  | [Solution](https://codeforces.com/contest/1869/submission/318360121) | |
+| 6 | B. Longest Divisors Interval | [Problem](https://codeforces.com/problemset/problem/1855/B) | | [Solution]                                                                           |         |
+| 7 | D. Balanced Round | [Problem](https://codeforces.com/problemset/problem/1850/D) |  | [Solution] | |
+| 8 | B. Comparison String | [Problem](https://codeforces.com/problemset/problem/1837/B)| | [Solution] | |
+| 9 | B. Permutation Swap | [Problem](https://codeforces.com/problemset/problem/1828/B)|   | [Solution]  |  |
+| 10 | D. Odd Queries | [Problem](https://codeforces.com/problemset/problem/1807/D)|  | [Solution] | |
+| 11 | B. Not Dividing | [Problem](https://codeforces.com/problemset/problem/1794/B) |  | [Solution] |  |
+| 12 | A. Mainak and Array | [Problem](https://codeforces.com/problemset/problem/1726/A) |  | [Solution] |  |
+| 13 | B. NIT Destroys the Universe| [Problem](https://codeforces.com/problemset/problem/1696/B)| | [Solution] |  |
+| 14 | A. AvtoBus | [Problem](https://codeforces.com/problemset/problem/1679/A) | | [Solution] |  |
+| 15 | B. Make It Increasing | [Problem](https://codeforces.com/problemset/problem/1675/B)|  | [Solution] |  |
+| 16 | D. Deletive Editing | [Problem](https://codeforces.com/problemset/problem/1666/D)  |   | [Solution] |  |
+| 17 | B. Array Cloning Technique  | [Problem](https://codeforces.com/problemset/problem/1665/B) |  | [Solution] |  |
+| 18 | B. Make AP | [Problem](https://codeforces.com/problemset/problem/1624/B) |   | [Solution] |    |
+| 19 | B. Odd Grasshopper | [Problem](https://codeforces.com/problemset/problem/1607/B)  |  | [Solution] |  |
+| 20 | A. AB Balance | [Problem](https://codeforces.com/problemset/problem/1606/A)  |  | [Solution]  |  |
+| 21 | B. Make it Divisible by 25 | [Problem](https://codeforces.com/problemset/problem/1593/B) |   | [Solution] |  |
+| 22 | B. Luntik and Subsequences | [Problem](https://codeforces.com/problemset/problem/1582/B)|   | [Solution] |  |
+| 23 | A. Mocha and Math | [Problem](https://codeforces.com/problemset/problem/1559/A) |   | [Solution] |  |
+| 24 | A. Exciting Bets | [Problem](https://codeforces.com/problemset/problem/1543/A) |  | [Solution] |  |
+| 25 | B. Bad Boy | [Problem](https://codeforces.com/problemset/problem/1537/B) |  | [Solution]|  |
+| 26 | A. Odd Divisor | [Problem](https://codeforces.com/problemset/problem/1475/A) |   | [Solution]  |  |
+| 27 | A. Strange Partition | [Problem](https://codeforces.com/problemset/problem/1471/A) |  | [Solution]  |  |
+| 28 | B. Sum of Medians | [Problem](https://codeforces.com/problemset/problem/1440/B) |  | [Solution]  |   |
+| 29 | A. Three Indices  | [Problem](https://codeforces.com/problemset/problem/1380/A)  |    | [Solution]  |   |
+| 30 | B. 01 Game | [Problem](https://codeforces.com/problemset/problem/1373/B) |  | [Solution] |  |
+| 31 | B. Multiply by 2, divide by 6| [Problem](https://codeforces.com/problemset/problem/1374/B) |  | [Solution]  |   |
+
 <!-- |  |  | [Problem](a)|   | [Solution](a) |  -->
