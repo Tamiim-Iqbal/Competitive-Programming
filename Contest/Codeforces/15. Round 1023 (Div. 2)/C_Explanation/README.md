@@ -2,5 +2,4 @@
 
 <h3> Approach_</h3>
 
-<img src="max-subarray-sum1.png" alt="image"/>
-<img src="max-subarray-sum2.png" alt="image"/>
+<img src="max-sub-array-sum.png" alt="image"/>
