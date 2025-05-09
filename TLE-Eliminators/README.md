@@ -31,7 +31,7 @@
 | 25 | C. Prepend and Append | [Problem](https://codeforces.com/problemset/problem/1791/C) |  | [Solution] |
 | 26 | A. Serval and Mocha's Array | [Problem](https://codeforces.com/problemset/problem/1789/A) |  | [Solution] |
 | 27 | A. One and Two | [Problem](https://codeforces.com/problemset/problem/1788/A) | prefix | [Solution](https://codeforces.com/contest/1788/submission/317451156) |
-| 28 | A. Make it Beautiful | [Problem](https://codeforces.com/problemset/problem/1783/A) |  | [Solution] |
+| 28 | A. Make it Beautiful | [Problem](https://codeforces.com/problemset/problem/1783/A) | array, sort | [Solution](https://codeforces.com/contest/1783/submission/318931702) |
 | 29 | A. Everybody Likes Good Arrays! | [Problem](https://codeforces.com/problemset/problem/1777/A) | array, conditionals | [Solution](https://codeforces.com/contest/1777/submission/318866415) |
 | 30 | A. Extremely Round | [Problem](https://codeforces.com/problemset/problem/1766/A) |  | [Solution] |
 | 31 | A. Two Permutations | [Problem](https://codeforces.com/problemset/problem/1761/A) |  | [Solution] |
