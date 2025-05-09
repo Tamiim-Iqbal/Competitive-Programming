@@ -2,4 +2,4 @@
 
 <h3> Approach_</h3>
 
-<img src="apple-in-boxes" alt="image"/>
+<img src="apple-in-boxes.png" alt="image"/>
