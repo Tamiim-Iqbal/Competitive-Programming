@@ -6,8 +6,8 @@
 |:-:|:---------:|:-:|----------------|:-----------------:|:--------------:|:----------------:|:-------:|
 | 12 | **Round 1017 (Div. 4)** | 1 | A. Trippi Troppi | [Problem](https://codeforces.com/contest/2094/problem/A) | string  | [Solution](https://codeforces.com/contest/2094/submission/315318262) |
 | 13 | | 1 |  | [Problem] |   | [Solution] |
-| 14 | | 1 |  | [Problem] |   | [Solution] |
-| 15 | | 1 |  | [Problem] |   | [Solution] |  |
-| 15 | | 2 |  | [Problem] |   | [Solution] |  |
-| 15 | | 3 |  | [Problem] |   | [Solution] | [Explanation](https://github.com/Tamiim-Iqbal/Competitive-Programming/tree/main/Contest/Codeforces/15.%20Round%201023%20(Div.%202)/C_Explanation) |
+| 14 | | 1 |  | [Problem] |  | [Solution] |
+| 15 | **Round 1023 (Div. 2)** | 1 |  A. LRC and VIP | [Problem](https://codeforces.com/contest/2107/problem/A) | gcd | [Solution](https://codeforces.com/contest/2107/submission/318649917) | [Explanation] |
+| 15 | | 2 | B. Apples in Boxes | [Problem](https://codeforces.com/contest/2107/problem/B) | vector, min, max | [Solution](https://codeforces.com/contest/2107/submission/318653348) | [Explanation] |
+| 15 | | 3 | C. Maximum Subarray Sum | [Problem](https://codeforces.com/contest/2107/problem/C) | kadane's Algorithm | [Solution](https://codeforces.com/contest/2107/submission/318676577) | [Explanation](https://github.com/Tamiim-Iqbal/Competitive-Programming/tree/main/Contest/Codeforces/15.%20Round%201023%20(Div.%202)/C_Explanation) |
 
