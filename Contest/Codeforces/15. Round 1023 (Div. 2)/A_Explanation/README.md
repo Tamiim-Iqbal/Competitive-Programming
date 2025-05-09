@@ -2,5 +2,4 @@
 
 <h3> Approach_</h3>
 
-<img src="" alt="image"/>
-<img src="" alt="image"/>
+<img src="LRC.png" alt="image"/>
