@@ -2,4 +2,4 @@
 
 <h3> Approach_</h3>
 
-<img src="" alt="image"/>
+<img src="longest divisors interval.png" alt="image"/>
