@@ -48,7 +48,7 @@
 | 4 | A. Jellyfish and Undertale | [Problem](https://codeforces.com/problemset/problem/1875/A) | array, math | [Solution](https://codeforces.com/contest/1875/submission/318158107) | |
 | 5 | A. Make It Zero | [Problem](https://codeforces.com/problemset/problem/1869/A) | xor  | [Solution](https://codeforces.com/contest/1869/submission/318360121) | |
 | 6 | B. Longest Divisors Interval | [Problem](https://codeforces.com/problemset/problem/1855/B) | lcm, loop | [Solution](https://codeforces.com/contest/1855/submission/319089807)| [Explanation](https://github.com/Tamiim-Iqbal/Competitive-Programming/tree/main/TLE-Eliminators/900/Explanations/06.%20Longest%20Divisor%20Interval) |
-| 7 | D. Balanced Round | [Problem](https://codeforces.com/problemset/problem/1850/D) |  | [Solution] | |
+| 7 | D. Balanced Round | [Problem](https://codeforces.com/problemset/problem/1850/D) | array, sort | [Solution](https://codeforces.com/contest/1850/submission/319213401) | [Explanation](https://github.com/Tamiim-Iqbal/Competitive-Programming/tree/main/TLE-Eliminators/900/Explanations/07.%20Balanced%20Round) |
 | 8 | B. Comparison String | [Problem](https://codeforces.com/problemset/problem/1837/B)| | [Solution] | |
 | 9 | B. Permutation Swap | [Problem](https://codeforces.com/problemset/problem/1828/B)|   | [Solution]  |  |
 | 10 | D. Odd Queries | [Problem](https://codeforces.com/problemset/problem/1807/D)|  | [Solution] | |
